@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my diploma
 - 🌱 I’m currently learning how to create beautiful and useful React applications 
-- 💻 Now i am looking for my first wonderful job
+- 💻 I have a wonderful job
 - ⚡ Fun fact: I love to draw and learn UI/UX design
 
 
