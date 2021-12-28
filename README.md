@@ -1,7 +1,7 @@
 ### Hi there, I'm Ann 👋
 #### I'm a Junior Frontend Developer!
 
-- 🔭 I’m currently working on my diploma
+- 🔭 I finished my diploma
 - 🌱 I’m currently learning how to create beautiful and useful React applications 
 - 💻 I have a wonderful job
 - ⚡ Fun fact: I love to draw and learn UI/UX design
@@ -16,12 +16,9 @@
 
 ### Languages and Tools:
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Redux
-- MySQL, Firebase
+- HTML / CSS / JavaScript
+- React / Redux / Saga
+- MySQL && Firebase
 - PHP
 - Git
-- Figma, Photoshop
+- Figma && Photoshop
