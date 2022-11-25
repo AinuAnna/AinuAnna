@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-- Telegram: [https://t.me/AinuTereshko](https://t.me/AinuTereshko)
+- Telegram: [https://t.me/AnnaKorshova](https://t.me/AnnaKorshova)
 - Discord: ainudavai#2320
 - E-mail: [anna.26.tereshko@gmail.com](anna.26.tereshko@gmail.com)
 - YouTube: [https://www.youtube.com/channel/UCrK-QcSt1X0PtY5B0In-seA](https://www.youtube.com/channel/UCrK-QcSt1X0PtY5B0In-seA)
