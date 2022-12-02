@@ -13,7 +13,7 @@
 - Discord: ainudavai#2320
 - E-mail: [anna.26.tereshko@gmail.com](anna.26.tereshko@gmail.com)
 - YouTube: [https://www.youtube.com/channel/UCrK-QcSt1X0PtY5B0In-seA](https://www.youtube.com/channel/UCrK-QcSt1X0PtY5B0In-seA)
-- Linkedln: [www.linkedin.com/in/anna-korshova-643005224]
+- Linkedln: www.linkedin.com/in/anna-korshova-643005224
 
 ### Languages and Tools:
 
