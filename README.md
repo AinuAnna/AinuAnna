@@ -1,11 +1,18 @@
-### Hi there, I'm Ann 👋
-#### I'm a Junior Frontend Developer!
+### Hi there, I'm Anna 👋
+#### Software Engineer specializing in web development with over 3 years of experience.
 
-- 🔭 I finished my diploma
-- 🌱 I’m currently learning how to create beautiful and useful React applications 
-- 💻 I have a wonderful job
-- ⚡ Fun fact: I love to draw and learn UI/UX design
-
+### Experience:
+- Functional development
+- Code review
+- Teamwork
+- Demonstrating developed functionality
+- Participation in design sprints, planning sessions, and grooming sessions
+- Writing unit tests using the Jest library
+- Rewriting legacy JS and jQuery widgets
+- Working with Azure DevOps, Figma, Lens, Storybook, and Fiddler
+- Brainstorming
+- Rewriting Enzyme component tests to React Testing Library
+- Using resxprocessor as an i18n tool
 
 ### Connect with me:
 
@@ -19,8 +26,10 @@
 
 - HTML / CSS / JavaScript
 - React / Redux / Saga
+- GraphQL
 - TypeScript
 - MySQL && Firebase
 - PHP
 - Git
-- Figma && Photoshop
+- Figma
+- Storybook
